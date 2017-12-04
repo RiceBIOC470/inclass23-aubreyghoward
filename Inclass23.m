@@ -1,3 +1,11 @@
+%GB comments
+1 100 ignoring your second plot because its not the correct way to represent the data
+2 100
+3 70 no discussion 
+4 0 no answer provided. 
+overall 68
+
+
 %In this directory, you will find a derivaitve function representing a
 %three gene circuit in which each gene product represses the transcription of another
 %gene in a cycle. This simple three gene circuit displays oscillations and was one
